@@ -1,0 +1,38 @@
+<enemigos>
+    <enemigo id="trasgo">
+        <PV>20</PV>
+        <dano>6</dano>
+        <puntos>10</puntos>
+        <vista>300</vista>
+        <ruta>archivos/ss/goblin.png</ruta>
+        <rutahb>archivos/ss/goblin.png</rutahb>
+        <nAnimaciones>6</nAnimaciones>
+        <h>84</h>
+        <w>68</w>
+        <velx>8</velx>
+    </enemigo>
+    <enemigo id="murcielago">
+        <PV>10</PV>
+        <dano>4</dano>
+        <puntos>5</puntos>
+        <vista>500</vista>
+        <ruta>archivos/ss/bat.png</ruta>
+        <rutahb>archivos/ss/bat.png</rutahb>
+        <nAnimaciones>2</nAnimaciones>
+        <h>52</h>
+        <w>20</w>
+        <velx>8</velx>
+    </enemigo>
+    <enemigo id="jefeDragon">
+        <PV>50</PV>
+        <dano>10</dano>
+        <puntos>100</puntos>
+        <vista>350</vista>
+        <ruta>archivos/ss/dragon.png</ruta>
+        <rutahb>archivos/ss/dragon.png</rutahb>
+        <nAnimaciones>6</nAnimaciones>
+        <h>144</h>
+        <w>216</w>
+        <velx>6</velx>
+    </enemigo>
+</enemigos>

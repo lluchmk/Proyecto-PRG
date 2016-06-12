@@ -1,0 +1,6 @@
+[02-06-16 -- 12:10:22] Error de MySQL. E: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[02-06-16 -- 12:12:08] Error de MySQL. E: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
